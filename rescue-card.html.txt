@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Editable Rescue KP Service Card</title>
     <style>
+<img src="images/Asim Asghar Service Card Details.jpg" alt="Mr.Asim Asghar's details">
         /* === CSS Styles - Just Leave This As Is === */
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
